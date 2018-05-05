@@ -4,7 +4,7 @@
 
 ## 用法
 
-- 安装依赖：pip install requests bs4 fake_useragent 
+- 安装依赖：pip install requests bs4
 
 - 更新脚本：python proxy.py
 
